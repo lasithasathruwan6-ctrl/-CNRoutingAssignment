@@ -29,6 +29,3 @@ Three routers (BusinessRouter, ComputingRouter, ScienceRouter) configured with s
 
 Networks: `172.16.0.0/16` and `173.16.0.0/16`
 
----
-
-> 💡 Open with Cisco Packet Tracer 8.0 or above
